@@ -1,0 +1,15 @@
+F:\GitHub\General-Algorithms\C#\Algorithm\bin\Debug\net6.0\Algorithm.exe
+F:\GitHub\General-Algorithms\C#\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+F:\GitHub\General-Algorithms\C#\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+F:\GitHub\General-Algorithms\C#\Algorithm\bin\Debug\net6.0\Algorithm.dll
+F:\GitHub\General-Algorithms\C#\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.dll
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+F:\GitHub\General-Algorithms\C#\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
